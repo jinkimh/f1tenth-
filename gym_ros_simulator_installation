@@ -61,4 +61,4 @@ docker파일 설치
         저장 후 종료
 
     $ cd ~/f1tenth_ws/src/f1tenth_gym_ros
-    $ sudo ./build_docker.sh ( 맵 바꿀때마다 해줘야함. 
+    $ sudo ./build_docker.sh (맵 변경시 반드시 실행해 주어야 함)
